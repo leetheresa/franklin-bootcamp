@@ -7,8 +7,7 @@
       "environments": [
         "edit"
       ],
-      "url": "
-      ",
+      "url": "https://experience.adobe.com/solutions/CQ-assets-selectors/static-assets/resources/franklin/asset-selector.html",
       "isPalette": true,
       "includePaths": [
         "**.docx**"
